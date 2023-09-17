@@ -13,5 +13,4 @@
 🤖 **Создайте надежное и удобное решение для ваших клиентов с нашим ботом!**
 
 ## 🎥 Демонстрация работы
-![Демонстрация работы]([путь_к_вашему_gif.gif](https://github.com/smaiht/currency_exchange/blob/main/vid.gif)https://github.com/smaiht/currency_exchange/blob/main/vid.gif)
-
+![vid](https://github.com/smaiht/currency_exchange/assets/23002525/007506ae-d926-4911-987f-15632b78dc74)
